@@ -163,6 +163,22 @@ img {
     transition: all 0.3s ease 0s;
 }
 
+
+.wrap.active{
+    width: 250px;
+    padding-left: 25px;
+    transition: all 0.5s ease;
+}
+
+.input.active{
+    width: 98%;
+    padding-left: 5px;
+    transition: all 0.5s 0.8s ease;
+}
+
+input::placeholder {
+    color: #fff;
+}
 .search {
     position: relative;
     display: flex;
