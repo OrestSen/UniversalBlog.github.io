@@ -100,5 +100,13 @@
     .lifestyle_vertically img {
         max-width: 350px;
     }
+    .lifestyle__type-3 {
+        width: 350px;
+    }
+    .lifestyle__type-3 div.image {
+        width: 350px;
+        max-width: 350px;
+        height: 216px;
+    }
     
 }
