@@ -16,3 +16,5 @@ $(document).ready(function(){
   });
 
 });
+
+let sign = document.querySelector(".header__signin")
