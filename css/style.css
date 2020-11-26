@@ -394,7 +394,7 @@ input::placeholder {
 main {
     display: block;
 }
-.news__horizontally div.main__content-item {
+.news__type-a div.main__content-item {
     margin: 0px 10px;
 }
 .lifestyle {
@@ -472,7 +472,7 @@ main {
     font-family: Montserrat, sans-serif !important;
     padding: 20px 20px 0px;
 }
-.news__vertically {
+.news__type-b {
     display: flex;
     flex-wrap: wrap;
 }
@@ -482,18 +482,17 @@ main {
     display: flex;
 }
 
-.news__vertically div.main__content-item {
-    padding: 10px 0px 0px;
+.news__type-b div.main__content-item {
+    margin: 0px 10px;
 }
 
 .lifestyle_vertically {
     max-width: 400px;
     height: 530px;
     background-color: rgb(255, 255, 255);
-    margin: 5px 10px;
 }
 
-.main__content__type-3 {
+.news__type-c {
     display: flex;
 }
 
